@@ -30,7 +30,7 @@ Dữ liệu mẫu đã được nạp vào Cluster
 
 Nhấn vào button "Connect" trên Cluster sau đó nhấn vào compass, tiếp theo bấm chọn "I don't have MongoDB Compass installed"
 
-<img src ="./images/image-6.png>
+<img src ="./images/image-6.png">
 
 Tiếp theo đó thực hiện cài đặt bản MongoDB Compass được đề xuất
 
